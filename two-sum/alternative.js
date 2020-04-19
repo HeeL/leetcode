@@ -1,6 +1,6 @@
-import { strict as assert } from 'assert';
+const assert = require('assert');
 
-function sum(numbers: Array<number>, target: number): Array<number> {
+function sum(numbers, target) {
     const dict = {};
     for(let i = 0; i < numbers.length; i++) {
         if (dict[target - numbers[i]] >= 0) {

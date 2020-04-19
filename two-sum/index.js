@@ -1,6 +1,6 @@
-import { strict as assert } from 'assert';
+const assert = require('assert');
 
-function sum(numbers: Array<number>, target: number): Array<number> {
+function sum(numbers, target) {
     for(let i = 0; i < numbers.length; i++ ) {
         for(let j = 0; j < numbers.length; j++ ) {
             if(numbers[i] + numbers[j] === target) {
