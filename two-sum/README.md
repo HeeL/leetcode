@@ -13,3 +13,8 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
+
+## Solution 1
+
+`index.ts` contains so called brute force solution that first spring to my mind. Every item summed with other one and compared against target. That gives us a complexity of **O(n<sup>2</sup>)** in the worst case scenario, as we are iterating a loop inside of a loop.
+
