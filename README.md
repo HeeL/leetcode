@@ -4,4 +4,4 @@ It's a collection of my leetcode solutions. Each directory is a separate challen
 
 List of challenges and solutions:
 
-* [Two Sum](./tree/master/two-sum/)
+* [Two Sum](./two-sum/)
