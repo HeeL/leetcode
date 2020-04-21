@@ -4,5 +4,6 @@ It's a collection of my leetcode solutions. Each directory is a separate challen
 
 List of challenges and solutions:
 
-* [Two Sum](./two-sum/)
+* [Summary Ranges](./summary-ranges/)
 * [Generate Parentheses](./generate-parentheses/)
+* [Two Sum](./two-sum/)
