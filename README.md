@@ -4,6 +4,7 @@ It's a collection of my leetcode solutions. Each directory is a separate challen
 
 List of challenges and solutions:
 
+* [First Missing Positive](./first-missing-positive/)
 * [Summary Ranges](./summary-ranges/)
 * [Generate Parentheses](./generate-parentheses/)
 * [Two Sum](./two-sum/)
