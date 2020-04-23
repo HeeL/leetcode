@@ -27,7 +27,7 @@ Output: 1
 
 ## Solution 1
 
-This solution using hashmap, which adds a bit to the space complexity, but still keep time complexity by O(n) as it iterates through the list of unsorted integers just ones. Starting iteration with the first positive integer 1 and returns result as soon as value is missing in a previously generated hashmap.
+This solution using hashmap, which adds a bit to the space complexity (O(n)), but still keep time complexity by O(n) as it iterates through the list of unsorted integers just ones. Starting iteration with the first positive integer 1 and returns result as soon as value is missing in a previously generated hashmap.
 
 
 ## Solution 2
