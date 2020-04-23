@@ -9,7 +9,6 @@ Given a sorted integer array without duplicates, return the summary of its range
 Input:  [0, 1, 2, 4, 5, 7]
 Output: ["0->2","4->5","7"]
 Explanation: 0,1,2 form a continuous range; 4,5 form a continuous range.
-Example 2:
 ```
 
 ## Example 2
