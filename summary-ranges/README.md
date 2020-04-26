@@ -2,7 +2,7 @@
 
 ## Challenge
 
-Given a sorted integer array without duplicates, return the summary of its ranges.
+Given a sorted integer array without duplicates, return the summary of its ranges. [ [_leetcode_](https://leetcode.com/problems/summary-ranges/) ]
 
 ## Example
 ```
